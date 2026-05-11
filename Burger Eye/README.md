@@ -22,6 +22,4 @@
 
 <hr>
 
-### [<p align="center">🔗 Page Link </p>](https://somyaranjansahu.github.io/Burger-Eye/)
-
 <h3 align="center"> Show ❤️ by Starring this Repo </h3>
